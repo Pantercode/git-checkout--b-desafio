@@ -12,7 +12,7 @@ Ao adicionar o seu nome, por favor observe:
   atual.
 
 | Nome                           | Email                                 | Github Page                               |
-| ------------------------------ | ------------------------------------- | ----------------------------------------- |
+| --
 | Adilson Boson Almeida Junior   | adboson@gmail.com                     | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                  | https://github.com/adolfont               |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima                 |
@@ -175,6 +175,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
 | Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                | https://github.com/marceloamedi           |
+ Marcell Felipe de Paula oliveiral marcelloliveira@gmailcom  https://github.com/panthercode
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
 | Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo        |
 | Marco Antonio Lauriano         | marlauriano@gmail.com                 | https://github.com/MaxKanu                |
